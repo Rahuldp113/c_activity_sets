@@ -1,0 +1,15 @@
+
+
+what is #
+-- a symbol used to include pre processor directive
+wht is pre processor
+--
+gcc converts a c source file to executable
+
+pre processor is a part of gcc which will process the lines starting with #
+#include <stdio.h> is basically telling the pre processor to include the elements frm library stdio.h and run it
+
+
+wht is stdio.h
+--its a library
+
