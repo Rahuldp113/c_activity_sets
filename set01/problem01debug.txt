@@ -1,0 +1,6 @@
+(gdb) r
+Starting program: C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01/problem01.exe
+[New Thread 24308.0x5734]
+[New Thread 24308.0x2f7c]
+rahul[Inferior 1 (process 24308) exited normally]
+<e4ercfzr.yzz' '--pid=Microsoft-MIEngine-Pid-jiq32zdu.aix' '--dbgExe=C:\MinGW\bin\gdb.exe' '--interpreter=mi'    
