@@ -1,5 +1,6 @@
-#include <stdio.h>
+//4. Write a C program to add two numbers using **pass by reference**
 
+#include <stdio.h>
 void input(int *a, int *b);
 void add(int a, int b, int *sum);
 void output(int a, int b, int sum);
@@ -7,8 +8,7 @@ void output(int a, int b, int sum);
 int main() {
     int num1, num2, result;
 
-    
-    input(&num1, &num2);
+     input(&num1, &num2);
 
     add(num1, num2, &result);
 
