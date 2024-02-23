@@ -9,3 +9,15 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01\problem07.exe...done.
+(gdb) r
+Starting program: C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01/problem07.exe
+[New Thread 11984.0x5824]
+[New Thread 11984.0x5024]
+Enter a number: 
+2
+Enter a number:
+3
+Enter a number:
+4
+The largest of the three numbers 2 , 3 and 4 is 4[Inferior 1 (process 11984) exited normally]
+(gdb) q

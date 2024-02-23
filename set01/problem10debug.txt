@@ -9,3 +9,12 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01\problem10.exe...done.
+(gdb) r
+Starting program: C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01/problem10.exe
+[New Thread 23004.0xd9c]
+[New Thread 23004.0x1d14]
+Enter the first string: hello
+Enter the second string: world
+hello is lesser than world
+[Inferior 1 (process 23004) exited normally]
+(gdb) q

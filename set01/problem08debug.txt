@@ -10,3 +10,16 @@ For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01\problem08.exe...done.
 (gdb) r
+Starting program: C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01/problem08.exe
+[New Thread 12568.0x167c]
+[New Thread 12568.0x3a88]
+Enter the value of n: 
+3
+Enter the array values:
+2
+Enter the array values:
+3
+Enter the array values:
+4
+Sum is 9[Inferior 1 (process 12568) exited normally]
+(gdb) q

@@ -33,6 +33,6 @@ Enter second number: 11     scanf("%d", &num2);
 Sum of two numbers: 13047304
 16          return 0;
 (gdb) n
-17      }(gdb) n
+17      (gdb) n
 0x00401288 in __register_frame_info ()
 (gdb)

@@ -9,3 +9,18 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01\problem09.exe...done.
+(gdb) r
+Starting program: C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01/problem09.exe
+[New Thread 19640.0x102c]
+[New Thread 19640.0x89c]
+Enter a number: 
+3
+Square root of 3.000000 is 1.732051[Inferior 1 (process 19640) exited normally]
+(gdb) r 
+Starting program: C:\Users\rahul\OneDrive\Documents\SEM2\GIT REPOSITORY\c_activity_sets\set01/problem09.exe
+[New Thread 18636.0x448c]
+[New Thread 18636.0x5a18]
+Enter a number: 
+49
+Square root of 49.000000 is 7.000000[Inferior 1 (process 18636) exited normally]
+(gdb) q
